@@ -1,13 +1,13 @@
 {
     "name": "backend",
     "version": "1.0.0",
-    "description": "file converter app",
+    "description": "word-to-pdf convertor app",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
         "start": "nodemon index.js"
     },
-    "author": "Akhil",
+    "author": "Samir",
     "license": "ISC",
     "dependencies": {
         "cors": "^2.8.5",
